@@ -407,6 +407,16 @@ h6 {
   font-family: "Noto Sans", sans-serif;
   font-size: 12px;
 }
+.sport-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+}
+
 
 #section1 {
   color: #be4223;
